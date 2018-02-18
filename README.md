@@ -1,6 +1,9 @@
 # py3DES
 A python3 implementation of the DES Algorithm.
 
+The algorithm is writtern by referencing this awesome article: [The DES Algorithm Illustrated](http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm) by J. Orlin Grabbe.
+
+
 ## Usage
 ```
 # The data passed can be a string of any length.
